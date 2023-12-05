@@ -1,0 +1,25 @@
+:root {
+    --blanc-neige: #ffffff;
+    --bleu-lavande: #341269;
+    --bleu-de-sèvres: #1a18ba;
+    --corail-tahiti: #ff5757;
+    --gold: #d7c378;
+    --green: #00b460;
+    --gris-zinc: #8c9b95;
+    --jaune-matisse: #fab900;
+    --light-white: #f3f3f3;
+    --noir-intense: #000000;
+    --rouge-amour: #ff0042;
+    --turquoise: #6edbd7;
+}
+
+body{
+    margin: 0;
+}
+
+.app{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}

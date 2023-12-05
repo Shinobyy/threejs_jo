@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.159.0"
+    "@seregpie/three.text-sprite": "^3.2.0",
+    "three": "^0.159.0",
+    "three-mesh-ui": "^6.5.4"
   },
   "devDependencies": {
     "vite": "^5.0.4"
